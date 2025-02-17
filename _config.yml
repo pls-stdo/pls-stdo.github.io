@@ -52,9 +52,10 @@ round-avatar: true
 social-network-links:
   email: "pulsestudio2023@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
+  github: pls-stdo
   instagram: pulsestudio2023
-  whatsapp: 15551212
+  whatsapp: 123456789
+  telegram: pulsestudio2023
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -93,7 +94,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
