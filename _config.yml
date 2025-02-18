@@ -25,6 +25,7 @@ navbar-links:
     - GitHub: "https://github.com/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Contact Us: "contactus"
 
 ################
 # --- Logo --- #
@@ -98,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "pulsestudio.com"
+url-pretty: "pls-stdo.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
